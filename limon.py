@@ -308,7 +308,7 @@ def limon2():
 
 class apvroval:
     def check():
-        url = "https://github.com/MominTermux/Momincc/blob/main/Afroveal5.txt"
+        url = "https://github.com/manas-2063/approval/blob/main/approval.txt"
         import mechanize
         my_awm = mechanize.Browser()
         try:
