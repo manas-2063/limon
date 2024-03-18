@@ -385,7 +385,7 @@ class Akash:
             print(f"---------------------------------------------------")
             for love in bou:
                 ids = code + love
-                passlist = [ids,love,ids[:8],ids[:7],ids[:6],'nepal12','nepal123','nepal1234','nepal12345','maya123','kathmandu','pokhara','tamang','maya1234','tamang123','nepal@123','kathmandu123']
+                passlist = [ids,love,ids[:8],ids[:7],ids[:6],'nepal123']
                 My_Tanisha.submit(crack_rand,ids,passlist)
         print('')
         linex()
