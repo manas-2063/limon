@@ -615,4 +615,3 @@ def crack_rand(ids,passlist):
         pass
 
 ##------------------[ END-MENU ]------------------##
-if __name__ == '__main__':
