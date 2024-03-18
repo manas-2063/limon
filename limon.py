@@ -616,4 +616,3 @@ def crack_rand(ids,passlist):
 
 ##------------------[ END-MENU ]------------------##
 if __name__ == '__main__':
-    #Main.Awm()
