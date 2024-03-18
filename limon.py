@@ -283,10 +283,7 @@ logo=("""     ___ ___                     _____.___.
 \x1b[38;5;231m ██║ ╚═╝ ██║██║  ██║██║ ╚████║██║  ██║███████║    \x1b[38;5;231m
 \x1b[38;5;231m ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝  \x1b[38;5;231m """)
 print(f"""\x1b[37m----------------------------------------------
- AUTHOR     : MANAS TAMANG
- GITHUB     : MANAS-EXE
- FACEBOOK   : MAN AS
- VERSION    : 0.0.1
+
 \x1b[37m----------------------------------------------""")
 
 def clear():os.system('clear');print(logo1)
@@ -471,7 +468,7 @@ class Akash:
 ##------------------[ CRACK-MT ]------------------##
 def crack_file_A(ids,names,passlist):
     global loop,oks,cps
-    sys.stdout.write(f"\r {P}[MANAS]{P} {P}{loop}{P}/{P}{len(id)}{P} OK{P}[{H}{ok}{P}] [{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]  "),
+    sys.stdout.write(f'\r{R}❲{G}MANAS-M1{R}❳{A}-{R}❲{G}%s{R}❳{A}-{R}❲{G}OK{R}❳{A}-{R}❲{G}%s{R}❳ \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
     sys.stdout.flush()
     try:
         fn = names.split(' ')[0]
@@ -544,7 +541,7 @@ def crack_file_A(ids,names,passlist):
 
 def crack_rand(ids,passlist):
     global loop,oks,cps
-    sys.stdout.write(f"\r {P}[MANAS-RANDOM]{P} {P}{loop}{P}/{P}{len(id)}{P} OK{P}[{H}{ok}{P}] [{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]  "),
+    sys.stdout.write(f'\r{R}❲{G}MANAS-M1{R}❳{A}-{R}❲{G}%s{R}❳{A}-{R}❲{G}OK{R}❳{A}-{R}❲{G}%s{R}❳ \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
     sys.stdout.flush()
     try:
         for pas in passlist:
@@ -620,4 +617,4 @@ def crack_rand(ids,passlist):
 ##------------------[ END-MENU ]------------------##
 if __name__ == '__main__':
     #Main.Awm()
-    apvroval.check()
+   # apvroval.check#()
